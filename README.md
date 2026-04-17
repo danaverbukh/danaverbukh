@@ -4,6 +4,6 @@ Co-founder and CEO of [vBase](https://www.vbase.com). We build infrastructure fo
 
 Previously: founder of Clerkenwell Asset Management, a systematic hedge fund.
 
-Interests: data integrity, reproducible research, systematic investing, alternative data, conversations that change my mind.
+Interests: data integrity, reproducible research, systematic investing, alternative data, new ideas.
 
 [vbase.com](https://www.vbase.com) · [LinkedIn](https://linkedin.com/in/danaverbukh) · [X](https://x.com/DanAverbukh)
